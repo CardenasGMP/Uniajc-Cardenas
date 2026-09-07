@@ -49,7 +49,11 @@ Confirmación
 | Nombre | Usuario de GitHub | Rol |
 
 | Jose Cardenas | CardenasGMP | Desarrollador |
+
+
 | Nicol Segovia | Nicol-19 | Desarrollador |
+
+
 | Santiago Lopez | slopezr666 | Desarrollador |
 
 ## Estado del proyecto
