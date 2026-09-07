@@ -36,19 +36,19 @@ La primera solución consiste en continuar utilizando WhatsApp junto con una age
   text
 Cliente
 
-        ↓
+      ↓
    
 WhatsApp
 
-        ↓
+      ↓
    
 Administrador
 
-        ↓
+      ↓
    
 Excel / agenda
 
-       ↓
+      ↓
    
 Confirmación
 
