@@ -53,6 +53,7 @@ app.get("/version", (req: Request, res: Response) => {
   });
 });
 
+
 app.listen(PORT, () => {
   console.log(`Servidor funcionando en http://localhost:${PORT}`);
 });
